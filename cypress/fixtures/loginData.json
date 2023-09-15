@@ -1,0 +1,11 @@
+{
+  "username1": "tincholorenz@gmail.com",
+  "password1": "1234",
+  "fullName1": "Martin Esteban",
+  "username2": "mlorenzo@alumnos.exa.unicen.edu.ar",
+  "password2": "1234",
+  "fullName2": "Test Martin",
+  "loginButtonText": "ACEPTAR",
+  "usernameLabel": "Ingrese su correo electronico",
+  "passwordData": "Ingrese su contraseña"
+}
