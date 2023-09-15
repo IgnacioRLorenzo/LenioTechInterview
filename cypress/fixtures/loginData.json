@@ -1,11 +1,12 @@
 {
-  "username1": "tincholorenz@gmail.com",
+  "username1": "mlorenzo@alumnos.exa.unicen.edu.ar",
   "password1": "1234",
-  "fullName1": "Martin Esteban",
-  "username2": "mlorenzo@alumnos.exa.unicen.edu.ar",
+  "fullName1": "Martin Lorenzo",
+  "username2": "testleniotesisparainterview@gmail.com",
   "password2": "1234",
-  "fullName2": "Test Martin",
+  "fullName2": "Test Lenio",
   "loginButtonText": "ACEPTAR",
+  "logoutButtonText": "Salir",
   "usernameLabel": "Ingrese su correo electronico",
-  "passwordData": "Ingrese su contraseña"
+  "passwordLabel": "Ingrese su contraseña"
 }

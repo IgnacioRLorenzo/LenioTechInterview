@@ -1,7 +1,7 @@
 import dotenv from "dotenv";
 import { defineConfig } from "cypress";
 
-const ENVIRONMENT = "local"
+const ENVIRONMENT = "prod"
 
 dotenv.config({ path: `.env.${ENVIRONMENT}` });
 dotenv.config();

@@ -1,9 +1,7 @@
-import 'cypress-soft-assertions'
-
 export default class Header {
   elements = {
     cornerButton: () => cy.get(".MuiIconButton-edgeEnd"),
-    logoutButton: () => cy.get("[role=menuitem]").contains("Salir"),
+    logoutButton: () => cy.contains("[role=menuitem]", "Salir"),
   }
 
   logout() {
