@@ -2,7 +2,7 @@ import dotenv from "dotenv";
 import { defineConfig } from "cypress";
 
 const ENVIRONMENT = "prod"
-
+console.log("hola");
 dotenv.config({ path: `.env.${ENVIRONMENT}` });
 dotenv.config();
 export default defineConfig({
